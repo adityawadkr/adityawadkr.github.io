@@ -1,3 +1,2 @@
-# adityawadkr.github.io
+hi wassuppp
 
-# h1 this is a trial
