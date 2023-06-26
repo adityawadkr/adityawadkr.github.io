@@ -34,7 +34,7 @@ body {
 	font-size: 0.9rem;
 	text-decoration: none;
 	text-transform: uppercase;
-	color: #rgba(0, 0, 0, 0);
+	color: #000000;
 	transition: color 150ms ease-out;
   }
   nav container li a:hover {
