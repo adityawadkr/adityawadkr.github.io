@@ -19,8 +19,8 @@ The landing page includes the following features:
 
 To run the project locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/indian-tourism-exploration.git`
-2. Navigate to the project directory: `cd indian-tourism-exploration`
+1. Clone the repository
+2. Navigate to the project directory
 3. Open the `index.html` file in a web browser.
 
 ## Technologies Used
